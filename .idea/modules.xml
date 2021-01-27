@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/24点/24点.iml" filepath="$PROJECT_DIR$/24点/24点.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24点游戏算法/24点游戏算法.iml" filepath="$PROJECT_DIR$/24点游戏算法/24点游戏算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24点进阶/24点进阶.iml" filepath="$PROJECT_DIR$/24点进阶/24点进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfsMaze/dfsMaze.iml" filepath="$PROJECT_DIR$/dfsMaze/dfsMaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfsMaze找到所有的路径且记录下来，且找到最短路径/dfsMaze找到所有的路径且记录下来，且找到最短路径.iml" filepath="$PROJECT_DIR$/dfsMaze找到所有的路径且记录下来，且找到最短路径/dfsMaze找到所有的路径且记录下来，且找到最短路径.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/recurrsion.iml" filepath="$PROJECT_DIR$/.idea/recurrsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/全排列递归/全排列递归.iml" filepath="$PROJECT_DIR$/全排列递归/全排列递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/加起来值为目标值的总和/加起来值为目标值的总和.iml" filepath="$PROJECT_DIR$/加起来值为目标值的总和/加起来值为目标值的总和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/可以有重复字符的所有组合/可以有重复字符的所有组合.iml" filepath="$PROJECT_DIR$/可以有重复字符的所有组合/可以有重复字符的所有组合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/可以有重复字符的特定长度的组合/可以有重复字符的特定长度的组合.iml" filepath="$PROJECT_DIR$/可以有重复字符的特定长度的组合/可以有重复字符的特定长度的组合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/放苹果/放苹果.iml" filepath="$PROJECT_DIR$/放苹果/放苹果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组种任意选择数字求和/数组种任意选择数字求和.iml" filepath="$PROJECT_DIR$/数组种任意选择数字求和/数组种任意选择数字求和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/斐波那契数列/斐波那契数列.iml" filepath="$PROJECT_DIR$/斐波那契数列/斐波那契数列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/有重复项数字的所有排列组合/有重复项数字的所有排列组合.iml" filepath="$PROJECT_DIR$/有重复项数字的所有排列组合/有重复项数字的所有排列组合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/求排列组合数/求排列组合数.iml" filepath="$PROJECT_DIR$/求排列组合数/求排列组合数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/统计每个月兔子的总数/统计每个月兔子的总数.iml" filepath="$PROJECT_DIR$/统计每个月兔子的总数/统计每个月兔子的总数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/走方格的方案数/走方格的方案数.iml" filepath="$PROJECT_DIR$/走方格的方案数/走方格的方案数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/递归青蛙跳台阶/递归青蛙跳台阶.iml" filepath="$PROJECT_DIR$/递归青蛙跳台阶/递归青蛙跳台阶.iml" />
+    </modules>
+  </component>
+</project>
